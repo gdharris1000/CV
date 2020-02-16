@@ -8,6 +8,9 @@ After leaving BP, I spent a few months in Tokyo studying Japanese language. I en
 
 Once the NHS contract ended, I headed back to Tokyo and ended up staying for a few years enrolled in a Japanese language course. While in Japan I had a few part time jobs; first as an assistant at an othodontic clinic (I helped create an English version of their website during quiet periods) and then doing web development and translation work at a company that supplies dental products.
 
+My next role, after returning to the UK was as a Web Producer at digital publication company, Page Lizard. 
+
+Family commitments resulted in me returning to Japan, followed by Vietnam until the beginning of this year. During this time I studied mobile app development using Dart and Flutter. I found this extremely enjoyable and it convinced me that upon my return the UK, a career change to focus more on development work would be a good idea.  
 
 ## Skills
 
