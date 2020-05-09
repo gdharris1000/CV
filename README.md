@@ -39,7 +39,7 @@ I am comfortable communicating in Japanese at a conversational level and have ac
 - Japanese Language
 - Achieved JLPT N3
 
-#### Any other qualifications
+#### Other qualifications
 
 ISEB Foundation in Business Analysis
 
