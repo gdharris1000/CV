@@ -27,7 +27,7 @@ I am comfortable communicating in Japanese at a conversational level and have ac
 
 ## Education
 
-#### Makers Academy (Feb 2020 to Apr 2020)
+#### Makers Academy (Feb 2020 to May 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
