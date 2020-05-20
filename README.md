@@ -22,7 +22,7 @@ I have spent the last few months doing an online course on mobile app developmen
 I am comfortable communicating in Japanese at a conversational level and have achieved level N3 of the Japanese Language Proficiency Test.
 
 ## Projects
-
+Project | Description | Technology
 --- | --- | --- 
 [Air Quality](https://github.com/gdharris1000/air_quality) | An app that uses data from the World Air Quality Index API to provide air quality information for the user based on their location. | Dart, Flutter
 [DateSpot](https://github.com/rafahg/travel-final-project) | Final team project from Makers Academy. A web app that provides information on recommended locations for dates. | React (frontend), Rails API (backend)
