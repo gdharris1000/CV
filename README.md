@@ -15,7 +15,8 @@ Over 10 years experience maintaining websites for an international audience. Pri
 While studing at Makers Academy, I also gained further skills in Ruby on Rails and improved in my Javascript abilities.
 
 #### Flutter / Dart
-I have spent the last few months doing an online course on mobile app development using Flutter and Dart. 
+
+Before signing up for Makers Academy, I completed an online course on mobile app development using Flutter and Dart. I have contintued to use what I learned in personal projects.
 
 #### Japanese Language (conversational level)
 
