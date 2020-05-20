@@ -28,7 +28,7 @@ Project | Description | Technology
 [DateSpot](https://github.com/rafahg/travel-final-project) | Final team project from Makers Academy. A web app that provides information on recommended locations for dates. | React (frontend), Rails API (backend)
 [Hiragana-Katakana Quiz](https://github.com/gdharris1000/hiragana_katakana) | An app that test the users on their knowledge of hiragana and katakana readings.  | Dart, Flutter
 [InstaGareth](https://github.com/gdharris1000/instagareth) | Challenge from Makers Academy course. A clone of Instagram.  | Ruby on Rails
-Bank Tech Test(https://github.com/gdharris1000/bank_tech_test) | Command line app built using a strict TDD process | Ruby
+[Bank Tech Test](https://github.com/gdharris1000/bank_tech_test) | Command line app built using a strict TDD process | Ruby
 
 
 ## Education
