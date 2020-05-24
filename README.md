@@ -1,9 +1,9 @@
 ## Gareth Harris
 
 
-I have recently graduated from Makers Academy coding bootcamp and am seeking my first Junior Developer role. 
+I have recently graduated from Makers Academy coding bootcamp and am seeking my first Junior Developer role.
 
-I have over 10 years of experience working in the fields of web management, business analysis, 1st line systems support and training. 
+I have over 10 years of experience working in the fields of web management, business analysis, 1st line systems support and training. However, in recent months, I have focused on study in order to transition into a more technical role. 
 
 After experiencing the immence satisfaction of completing projects while learning mobile app development using Dart and Flutter, I decided to sign up for Makers Academy so I could make the transition into a more technical role.
 
@@ -35,10 +35,12 @@ Project | Description | Technology
 
 #### Makers Academy (Feb 2020 to May 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+-	Object Oriented Programming
+-	Test Driven Development
+-	Agile
+-	Ruby, Rails, JavaScript
+-	RSpec, Jasmine
+
 
 #### ARC Academy Japanese Language School (Oct 2014 to Dec 2014 & Oct 2015 to Apr 2017)
 
@@ -53,25 +55,22 @@ ISEB Foundation in Business Analysis
 
 **Page Lizard** (Jan 2018 to Sep 2018)    
 *Web Producer*  
-- Website design and build
-- User support and training
-- Site usage reporting
-- User acceptance testing
-- Product development
+-	Designed and built websites to create online versions of print publications
+-	Provided user support, training and site usage reports 
+-	Conducted user acceptance testing
 
 **SDNI Cosmo** (Feb 2017 to Apr 2017)   
 *Web Designer*  
-- Translate Japanese website into English
-- Create a new English-language website
-- Manage communication with English-speaking clients
-- Translation of documents from Japanese to English 
+-	Translated Japanese website into English
+-	Created a new English-language website.
+-	Managed communication with English-speaking clients
+-	Translated documents from Japanese to English
 
 **NHS Health Education East of England** (Feb 2015 to Jun 2015)  
 *Web Officer (contractor)*  
-- Provide first line business support for queries around the NHS Health Education East of England internet site.
-- Develop and deliver training programmes in the use of website and intranet tools.
-- Maintaining and reporting on the usage of the sites.
-- Develop support logging process.
+-	Provided first line business support for queries around the NHS Health Education East of England internet site.
+-	Developed and delivered training programmes in the use of website and intranet tools.
+-	Maintained and reported site use. Developed a support logging process.
 
 **BP plc** (Jan 2014 to Sep 2014)  
 *Business Analyst / Project Administrator*  
@@ -99,7 +98,7 @@ ISEB Foundation in Business Analysis
 
 **BP plc** (Feb 2004 to Jan 2007)  
 *Web Administrator (contractor)*  
--	Maintain the Air BP internet, intranet and SharePoint sites
+-	Maintaining the Air BP internet, intranet and SharePoint sites
 
 ## Hobbies
 
