@@ -26,9 +26,10 @@ I am comfortable communicating in Japanese at a conversational level and have ac
 Project | Description | Technology
 --- | --- | --- 
 [Air Quality](https://github.com/gdharris1000/air_quality) | An app that uses data from the World Air Quality Index API to provide air quality information for the user based on their location. | Dart, Flutter
-[DateSpot](https://github.com/rafahg/travel-final-project) | Final team project from Makers Academy. A web app that provides information on recommended locations for dates. | React (frontend), Rails API (backend)
 [InstaGareth](https://github.com/gdharris1000/instagareth) | Challenge from Makers Academy course. A clone of Instagram.  | Ruby on Rails
 [Bank Tech Test](https://github.com/gdharris1000/bank_tech_test) | Command line app built using a strict TDD process | Ruby
+[DateSpot](https://github.com/rafahg/travel-final-project) | Final team project from Makers Academy. A web app that provides information on recommended locations for dates. | React (frontend), Rails API (backend)
+
 
 
 ## Education
