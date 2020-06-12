@@ -25,7 +25,7 @@ I am comfortable communicating in Japanese at a conversational level and have ac
 ## Projects
 Project | Description | Technology
 --- | --- | --- 
-[Do My Bidding](https://github.com/gdharris1000/do_my_bidding) | An app that lets you assign tasks to yourself other users.  | Dart, Flutter, Firebase
+[Task Assigner](https://github.com/gdharris1000/task_assigner) | An app that lets you assign tasks to yourself other users.  | Dart, Flutter, Firebase
 [Air Quality](https://github.com/gdharris1000/air_quality) | An app that uses data from the World Air Quality Index API to provide air quality information for the user based on their location. | Dart, Flutter
 [InstaGareth](https://github.com/gdharris1000/instagareth) | Challenge from Makers Academy course. A clone of Instagram.  | Ruby on Rails
 [Bank Tech Test](https://github.com/gdharris1000/bank_tech_test) | Command line app built using a strict TDD process | Ruby
