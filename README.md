@@ -72,7 +72,8 @@ ISEB Foundation in Business Analysis
 *Web Officer (contractor)*  
 -	Provided first line business support for queries around the NHS Health Education East of England internet site.
 -	Developed and delivered training programmes in the use of website and intranet tools.
--	Maintained and reported site use. Developed a support logging process.
+-	Maintained and reported site use. 
+- Developed a support logging process.
 
 **BP plc** (Jan 2014 to Sep 2014)  
 *Business Analyst / Project Administrator*  
