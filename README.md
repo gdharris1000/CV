@@ -78,16 +78,16 @@ ISEB Foundation in Business Analysis
 **BP plc** (Jan 2014 to Sep 2014)  
 *Business Analyst / Project Administrator*  
 
-*	Provided first line business support for queries around the Air BP internet site prior to its migration to a new platform.
-*	Worked in close partnership with the Project Manager to build and transfer content to the new Air BP internet site.
-*	Supported IT&S and business stakeholders in the delivery of new Air BP online applications by:
-  * Acting as subject matter expert in the project team
-  * Gathering business requirements and turning them into system requirements
-  * Testing of new releases
-  * Documenting support processes
-  * Training support teams
-*	Provided the link between the Air BP Communications team and the Internet Development team, ensuring that solutions were found to address Air BP’s functionality requirements
-*	Ran training sessions for web page owners on how to use the Air BP internet site’s content management system (Adobe CQ5)
+-	Provided first line business support for queries around the Air BP internet site prior to its migration to a new platform.
+-	Worked in close partnership with the Project Manager to build and transfer content to the new Air BP internet site.
+-	Supported IT&S and business stakeholders in the delivery of new Air BP online applications by:
+	- Acting as subject matter expert in the project team
+	- Gathering business requirements and turning them into system requirements
+	- Testing of new releases
+	- Documenting support processes
+	- Training support teams
+-	Provided the link between the Air BP Communications team and the Internet Development team, ensuring that solutions were found to address Air BP’s functionality requirements
+-	Ran training sessions for web page owners on how to use the Air BP internet site’s content management system (Adobe CQ5)
 
 **BP plc** (Jul 2007 to Jan 2014)  
 *Internet / Intranet Services Expert*  
