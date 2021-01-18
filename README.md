@@ -1,11 +1,5 @@
 ## Gareth Harris
-
-
-I have recently graduated from Makers Academy coding bootcamp and am seeking my first Junior Developer role.
-
-I have over 10 years of experience working in the fields of web management, business analysis, 1st line systems support and training. However, in recent months, I have focused on study in order to transition into a more technical role. 
-
-After experiencing the immence satisfaction of completing projects while learning mobile app development using Dart and Flutter, I decided to sign up for Makers Academy so I could make the transition into a more technical role.
+### Front-End Developer
 
 ## Skills
 
@@ -54,6 +48,11 @@ Project | Description | Technology
 ISEB Foundation in Business Analysis
 
 ## Experience
+
+**Champions UK plc** (Aug 2020 to present)    
+*Front-End Developer*  
+-	Built and enhanced websites to clients' specification using Drupal 8
+-	Supported mobile application development projects using Flutter
 
 **Page Lizard** (Jan 2018 to Sep 2018)    
 *Web Producer*  
